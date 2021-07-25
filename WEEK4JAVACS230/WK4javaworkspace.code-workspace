@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Python"
+		},
+		{
+			"path": "..\\..\\C++"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
